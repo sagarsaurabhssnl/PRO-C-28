@@ -1,2 +1,2 @@
-# White Hat Jr 
+# White Hat Jr Project
 PRO C-28
