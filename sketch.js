@@ -157,7 +157,7 @@ function reloadchance0fun() {
 function reloadscore8fun() {
 	if (score >= 8 && reload === null) {
 		reload = 1;
-		setTimeout(reloadfunction, 500);
+		setTimeout(reloadfunction, 50);
 	}
 }
 
