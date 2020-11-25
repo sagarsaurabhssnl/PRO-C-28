@@ -46,6 +46,7 @@ function draw() {
 	textSize(30);
 	text("Score: " + score, 10, 50);
 	text("Chances: " + chances, 10, 100);
+	text("Drag the stone and release to throw", 600, 50);
 	throw1.display();
 	stone1.display();
 	platform1.display();
